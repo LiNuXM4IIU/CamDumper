@@ -10,7 +10,7 @@ $apt install git
 
 $apt install php
 
-$git clone https://github.com/L1NUXMAllU/CamDumper.git
+$git clone https://github.com/LiNuX-M411U/CamDumper.git
 
 $cd CamDumper
 
