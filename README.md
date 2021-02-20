@@ -1,6 +1,8 @@
 # CamDumper
 A tool for accessing front camera of the victim
 
+updated version of the old cam-dumper
+
 
 # Installing (Kali Linux/Termux):
 
